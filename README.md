@@ -12,8 +12,8 @@ Installation: IntelliJ Idea, Gradle, STS
 Dictionary within this document: 'will read' refers to tutorials on the to-do list; 'completed' are tutorials which are read, run and understood. 
 1. Spring.io: Validating Form Input: I ran and annotated this tutorial. Completed.
 2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed.
-3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed.
-4. Spring.io: Messaging with RabbitMQ: will read
+3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. The tutorial itself is completed. To do: further MongoDB
+4. Spring.io: Messaging with RabbitMQ:  I ran and annotated this tutorial. The tutorial itself is completed. To do: further RabbitMQ, further Docker.
 
 The completed tutorial projects match the given tutorials. 
 
