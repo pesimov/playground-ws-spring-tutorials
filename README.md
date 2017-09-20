@@ -7,9 +7,14 @@ The goal of working on the tutorials is: 1. Practice interfacing Java Spring ser
 
 Progress: 
 Installation: IntelliJ Idea, Gradle, STS
-Dictionary within this document: 
+
+
+Dictionary within this document: 'will read' refers to tutorials on the to-do list; 'completed' are tutorials which are read, run and understood. 
 1. Spring.io: Validating Form Input: I ran and annotated this tutorial. Completed.
 2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed.
-3. Spring.io: Creating Asynchronous Methods: currently reading - will run 
+3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed.
+4. Spring.io: Messaging with RabbitMQ: will read
 
-The completed project for the tutorials match the given tutorial projects. 
+The completed tutorial projects match the given tutorials. 
+
+Example services will be added as sub-directories to the current repo. 
