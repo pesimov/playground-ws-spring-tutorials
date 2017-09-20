@@ -8,8 +8,8 @@ The goal of working on the tutorials is: 1. Practice interfacing Java Spring ser
 Progress: 
 Installation: IntelliJ Idea, Gradle, STS
 Dictionary within this document: 
-1. Spring.io: Validating Form Input: ran&annotated. Completed.
-2. Spring.io: Accessing Data with MongoDB: currently reading - will run
+1. Spring.io: Validating Form Input: I ran and annotated this tutorial. Completed.
+2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed.
 3. Spring.io: Creating Asynchronous Methods: currently reading - will run 
 
 The completed project for the tutorials match the given tutorial projects. 
