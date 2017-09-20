@@ -11,10 +11,16 @@ Installation: IntelliJ Idea, Gradle, STS
 
 Dictionary within this document: 'will read' refers to tutorials on the to-do list; 'completed' are tutorials which are read, run and understood. 
 1. Spring.io: Validating Form Input: I ran and annotated this tutorial. Completed.
-2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed. To do: further MongoDB
-3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed 
+2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed. To do: further MongoDB.
+3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed.
 4. Spring.io: Messaging with RabbitMQ:  I ran and annotated this tutorial. Completed. To do: further RabbitMQ, further Docker.
-5. Book "Spring in Action": read offline. 
+5. Book "Spring in Action": to read.
+6. Spring.io: Building a RESTful Web Service: to read and run.
+7. Spring.io: Producing a SOAP web service: to read and run.
+8. Spring.io: Creating a Multi Module Project: to read and run.
+9. Spring.io: Creating CRUD UI with Vaadin.
+10. Create a sample web service: a web form to enter and retrieve data per store's warehouse for items.
+Step 10 will be added to this repository. 
 
 The completed tutorial projects match the given tutorials. 
 
