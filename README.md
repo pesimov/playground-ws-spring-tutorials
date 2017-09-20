@@ -14,6 +14,7 @@ Dictionary within this document: 'will read' refers to tutorials on the to-do li
 2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed. To do: further MongoDB
 3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed 
 4. Spring.io: Messaging with RabbitMQ:  I ran and annotated this tutorial. Completed. To do: further RabbitMQ, further Docker.
+5. Book "Spring in Action": read offline. 
 
 The completed tutorial projects match the given tutorials. 
 
