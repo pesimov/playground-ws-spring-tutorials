@@ -14,9 +14,9 @@ Dictionary within this document: 'will read' refers to tutorials on the to-do li
 2. Spring.io: Accessing Data with MongoDB: I ran and annotated this tutorial. Completed. To do: further MongoDB.
 3. Spring.io: Creating Asynchronous Methods: I ran and annotated this tutorial. Completed.
 4. Spring.io: Messaging with RabbitMQ:  I ran and annotated this tutorial. Completed. To do: further RabbitMQ, further Docker.
-5. Book "Spring in Action": to read.
-6. Spring.io: Building a RESTful Web Service: to read and run.
-7. Spring.io: Producing a SOAP web service: to read and run.
+5. Book "Spring in Action": Completed.
+6. Spring.io: Building a RESTful Web Service: Completed.
+7. Spring.io: Producing a SOAP web service: Completed.
 8. Spring.io: Creating a Multi Module Project: to read and run.
 9. Spring.io: Creating CRUD UI with Vaadin.
 10. Create a sample web service: a web form to enter and retrieve data per store's warehouse for items.
